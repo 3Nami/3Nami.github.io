@@ -1,0 +1,105 @@
+.top-half {
+background-image: url(https://previews.123rf.com/images/hoyabouquet/hoyabouquet1905/hoyabouquet190500009/122670296-the-beautiful-of-flower-art-gold-and-colorful-malaysian-and-indonesian-batik-sarong-bouquet.jpg); 
+width: 10; 
+height: 350;
+background-size: 70px;
+  margin: auto;
+  padding-inline: 40%;
+  width: 62%;
+  margin: 0 auto;
+  padding: 10px;
+
+}
+body {
+  background-size: auto;  
+  font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;            }
+  
+    .container1 {
+  width: 64%;
+  margin: auto;
+  background-color: lightgray;
+  text-align: justify;
+
+}
+.container2 {
+  width: 64%;
+  margin: auto;
+  border: 5px dotted white;
+  background-color: lightgray;
+  text-align: justify;
+}
+
+.header {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.content {
+  text-align: justify;
+}
+p {
+color: black;
+font-size: smaller;
+}
+
+h4 {
+    font-weight: bold;
+    text-align: center;
+    color: darkslategray;
+
+}
+h1 {
+font-size: 15px;
+text-align: center;
+color: black;
+background-color: wheat;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+       h2 {
+font-size: 20px;
+background-color:dimgray;
+text-align: center;
+color: white;
+       }
+
+       img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .shadowed-paragraph {
+        text-shadow: 70px 70px 85px wheat;
+     }
+
+     .background-text {
+      background-color: white;
+      display: inline;
+      padding: 2px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    }
+    
+    li {
+    float: left;
+    }
+    
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+    
+    li a:hover {
+    background-color: #111111;
+    }

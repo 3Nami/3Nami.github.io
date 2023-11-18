@@ -1,0 +1,88 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image" href="Images/ANRI.ico">
+    <title>Profil Tulus</title>
+</head>
+<!--bagian style-->
+<style>
+    body {
+        color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: gray;
+    }
+    h1 {
+        font-size: 36px;
+        background-color: white;
+        text-align: center;
+        style="border: 1px solid black"
+    }
+    h2 {
+        color: white;
+    }
+    .info {
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: justify;
+    }
+    table, th, td {
+        style="border:1px solid black;"
+    }
+</style>
+<body>
+    <h1>TULUS</h1>
+    <p class="info" div style="border:1px solid black">Muhammad Tulus, S.Ars (lahir 20 Agustus 1987) adalah penyanyi-penulis lagu berkebangsaan Indonesia. Tulus memulai karier profesionalnya sejak tahun 2011 melalui label rekaman independen TulusCompany yang didirikannya.Hampir semua karya musik yang dirilisnya adalah hasil karya ciptanya sendiri.Sepanjang kariernya, Tulus telah menerima berbagai penghargaan musik termasuk 17 Anugerah Musik Indonesia.</p>
+    <img src="images/tulus.jpg" height="350px" width="300px" style="float: center;">
+<h3 style="color: white">Daftar isi</h3>
+<ul style="color: white;">
+    <li><a href="#bag1">Profil Pribadi</a></li>
+    <li><a href="#bag2">Karir</a></li>
+    <li><a href="#bag3">Musik</a></li>
+    <li><a href="#bag4">Pencapaian</a></li>
+</ul>
+<h1 id="bag1">Profil Pribadi</h1>
+<p class="info"><span style="border: 1px solid black">Muhammad Tulus</span>lahir pada 20 Agustus 1987 di Kota Bukittinggi, Sumatra Barat. Ia merupakan anak bungsu dari tiga bersaudara. Ayahnya bekerja sebagai kontraktor, sedangkan ibunya berjualan kaset musik.Tulus memiliki seorang kakak perempuan bernama Pinta Rahmadani dan kakak laki-laki bernama Riri Muktamar–yang juga bertindak sebagai produser eksekutifnya.Tulus lahir dari keluarga Minangkabau serta penganut agama Islam. Tulus diberi nama yang unik yang merupakan doa dari ibunya. Nama depannya, Muhammad merupakan nabi dan rasul dalam Islam yang menjadi panutan dengan akhlak sempurna. Tulus memiliki makna luas dengan konotasinya bersinggungan dengan hal positif supaya ia tumbuh sebagai pribadi yang positif.Semasa kecil Tulus kerap mendapatkan celaan fisik dari teman-temannya yang memanggilnya dengan sebutan “kerbau”, “gapuak” (gemuk), “gajah”, dan “gajah bengkak” karena memiliki ukuran tubuh lebih besar dibanding yang lainnya.</p>
+<p class="info">Sampai saat ini, lagu-lagu TULUS telah didengarkan sebanyak 97,01 juta kali lewat layanan digital streaming, Spotify. TULUS juga menjadi musisi Indonesia pertama yang berhasil meraih 1 juta pelanggan di layanan digital streaming, Spotify. Memiliki 425.668 pelanggan di kanal Youtube MusikTulus, seluruh video TULUS telah disaksikan sebanyak 224.098.506 kali.
+    Indonesia, menjadi rumah di setiap karya musik TULUS, namun tidak hanya berhenti mempublikasikan karya musik di “rumah”nya saja, terhitung 2015, TULUS telah berekspansi ke Jepang. Langkah awal ekspansi TULUS di Jepang, dimulai dengan merilis lagu berbahasa Jepang ciptaan TULUS untuk pertama kalinya yang berjudul “Kutsu”. “Kutsu” adalah gubahan lagu “Sepatu” dalam versi Bahasa Jepang. Di tahun ketiga perjalanan musik di Jepang, TULUS didaulat sebagai Duta Besar 60 tahun Persahabatan Indonesia – Jepang.
+</p>
+<h1 id="bag2">Karir</h1>
+<h5 style="color: white;"><b>TULUS x Album Gajah</b></h5>
+<p class="info">Pada akhir tahun 2013, TULUS akhirnya menyelesaikan proses rekaman untuk kantung album kedua-nya. Setelah hampir dua tahun menjelajahi industri musik Indonesia, TULUS memilih untuk kembali memperkenalkan karya musiknya yang terbaru pada awal tahun 2014. 30.000 keping kantung album TULUS-Gajah diproduksi kurang dari 15 hari setelah album tersebut dirilis. Album TULUS-Gajah juga merupakan satu-satunya album musik yang berbahasa Indonesia yang masuk ke dalam Top 10 album musik yang best-selling di iTunes Asia.
+    Judul dari album ini, yaitu Gajah, dipilih berdasarkan sejarah masa kecil dari TULUS sendiri. Temannya memanggil Ia dengan sebutan ‘Gajah’ sebagai sebuah nama panggilan. Gajah juga merupakan judul dari salah satu lagu yang ada di dalam album ini. Melalui kantung album kedua-nya, TULUS berharap Ia dapat membagikan berbagai macam cerita kepada pendengarnya. Cerita-cerita yang dikemas dengan indah dalam eksplorasi instrumental yang baru, yang disampaikan secara elegan dengan vokalnya yang mempesona.
+    Lagu-lagu seperti Tanggal Merah, Satu hari di Bulan Juni, Bumerang, Gajah dan beberapa lainnya merupakan karya-karyanya yang dapat anda temukan di dalam album kedua ini.
+</p>
+<h5 style="color: white;"><b>TULUS dan Video-video Musiknya</b></h5>
+<p class="info">Tujuh video musik untuk kedua kantung album TULUS telah dirilis melalui kanal YouTube miliknya. TULUS juga aktif berpartisipasi dalam proses produksi dan pembuatan konsepnya. “Sewindu”, “Baru”, “Gajah”, “Jangan Cintai Aku Apa Adanya”, “Pamit”, “Ruang Sendiri”, dan “Monokrom” merupakan video-video musik yang dibuat berdasarkan konsep dan ide-ide dari TULUS.
+    Pada musik video “Teman Hidup” dan “Sepatu”, TULUS bertindak sebagai seorang sutradara, dengan teman-teman dekatnya dalam sebuah tim kecil. Proses pengambilan gambar musik video untuk Sepatu dilakukan di Hamburg, Jerman dan musik video untuk “Baru” dilakukan di Tokyo, Jepang. Sedangkan pengambilan gambar untuk musik video TULUS “Pamit”, dilakukan di Praha, Republik Ceko.
+</p>
+<h1 id="bag4">Pencapaian</h1>
+<table>
+    <tr>
+        <th>2020</th>
+        <th>2021</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <td>Artis Solo Pria Pop Terbaik (AMI Awards 2020)</td>
+        <td>Favorite Male Singer (Telkomsel Awards 2021)</td>
+        <td>Artis Solo Pria Pop Terbaik, Tulus, Hati-hati di Jalan (AMI Awards 2022)</td>
+    </tr>
+</table>
+<h1 id="bag4">Pencapaian</h1>
+<table>
+    <tr>
+        <th>2020</th>
+        <th>2021</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <td>Artis Solo Pria Pop Terbaik (AMI Awards 2020)</td>
+        <td>Favorite Male Singer (Telkomsel Awards 2021)</td>
+        <td>Artis Solo Pria Pop Terbaik, Tulus, Hati-hati di Jalan (AMI Awards 2022)</td>
+    </tr>
+</table>
+</body>
+</html>

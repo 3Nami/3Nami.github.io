@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Responsive Website with Dropdowns</title>
+
+    <!--feather-icon-->
+    <script src="https://unpkg.com/feather-icons"></script>
+
+    <!--My Style-->
+    <link rel="stylesheet" href="chatgpt.css" />
+  </head>
+
+  <body class="fixed-sidebar-visible">
+    <!-- Fixed Sidebar -->
+    <div class="fixed-sidebar">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a href="#">About</a>
+          <ul class="dropdown-content">
+            <li><a href="#">History</a></li>
+            <li><a href="#">Team</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Responsive Sidebar -->
+    <div class="responsive-sidebar">
+      <div class="menu-toggle" id="mobile-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-list">
+        <li><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a href="#">About</a>
+          <ul class="dropdown-content">
+            <li><a href="#">History</a></li>
+            <li><a href="#">Team</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Content -->
+    <div class="content">
+      <h1>Welcome to Our Website</h1>
+      <p>
+        This is a simple responsive website example with dropdowns in the
+        sidebars.
+      </p>
+    </div>
+
+    <script src="chatgpt.js"></script>
+  </body>
+</html>

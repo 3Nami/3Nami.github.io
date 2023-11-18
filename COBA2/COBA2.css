@@ -1,0 +1,179 @@
+header {
+    background-color: white
+    ;
+    background-image: url(https://www.green-books.org/wp-content/themes/greenbooks/assets/img/logo.svg?v=2.1);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+    color: greenyellow;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif; 
+
+    ul {
+        list-style-type:none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333333;
+        }
+        
+        li {
+        float: left;
+        margin-left: 20px;
+        }
+        
+        li a {
+        color: white;
+        text-align: left;
+        padding: 16px;
+        text-decoration: none;
+        }
+        
+        li a:hover {
+        background-color: #111111;
+        }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.green-books.org/wp-content/uploads/2023/03/32.jpg);
+    background-size: cover; 
+    background-attachment: fixed;
+    text-align: justify;
+}
+
+ *{
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#GREENBOOK-image {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    border: 3px solid rgb(78, 255, 47);
+    border-radius: 10px;
+}
+
+.outline {
+    outline-style: double;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+.outline h2 {
+    font-size: 24px;
+}
+
+.list {
+    outline-style: double;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    font-family: 'Yuji Hentaigana Akari', cursive;
+}
+
+.list h2 {
+    font-size: 24px;
+}
+
+.kurikulum {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.kurikulum h2 {
+    font-size: 24px;
+}
+
+.box-model {
+    border: 2px solid greenyellow;      
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+table thead {
+    background-color: green;
+    color: #fff;
+}
+
+table th, table td {
+    border: 1px solid green;
+    padding: 8px;
+    text-align: justify;
+}
+
+.pelatihan {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.pelatihan h2 {
+    font-size: 24px;
+}
+
+.hadiah {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.hadiah h2 {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: rgb(2,0,36);
+    padding-bottom: 4%;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    font-family: Arial, sans-serif;
+}
+
+.Youtube {
+    font-size: 60px;
+    color: red;
+    text-align: center;
+    margin-right: 10px;
+}

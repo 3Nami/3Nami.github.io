@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smooth Scroll Example</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: "Arial", sans-serif;
+      }
+
+      #section1,
+      #section2,
+      #section3 {
+        height: 500px;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      nav {
+        background-color: #333;
+        color: white;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 1000;
+      }
+
+      nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="#section1" onclick="scrollToSection('section1')">Section 1</a>
+      <a href="#section2" onclick="scrollToSection('section2')">Section 2</a>
+      <a href="#section3" onclick="scrollToSection('section3')">Section 3</a>
+    </nav>
+
+    <div id="section1">
+      <h2>Section 1</h2>
+    </div>
+
+    <div id="section2">
+      <h2>Section 2</h2>
+    </div>
+
+    <div id="section3">
+      <h2>Section 3</h2>
+    </div>
+
+    <script>
+      function scrollToSection(sectionId) {
+        var section = document.getElementById(sectionId);
+        var offset = 20; // Nilai offset yang dapat disesuaikan
+        window.scrollTo({
+          top: section.offsetTop - offset,
+          behavior: "smooth",
+        });
+      }
+    </script>
+  </body>
+</html>
